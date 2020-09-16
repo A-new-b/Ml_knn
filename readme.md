@@ -11,6 +11,8 @@
 ` mlknn.test()`<br>
 注释掉直接运行，可以看见最后的hamming_loss =  0.05100211829884308 <br>
 如果要使用新数据集，那请去上文中的网上下新的arff文件，修改data_loading.py并运行后运行main.py
+## 下载
+如果不没有接触过github的同学可以点击右上角的code按钮，然后点击download zip即可下载
 
 
 
